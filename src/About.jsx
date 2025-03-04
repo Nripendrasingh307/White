@@ -1,5 +1,5 @@
 import React from "react";
- import DesignWhite from './assets/LogoAndOthers/DesignWHite.png'
+import DesignWhite from "/src/assets/LogoAndOthers/DesignWHite.png";
 const About = () => {
   return (
     <section className="h-screen bg-black opacity-150 text-white flex-col items-center justify-center px-10">

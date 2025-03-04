@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '../assets/Projects Images/P1.jpg'
+import logo from '/src/assets/Projects Images/P1.jpg'
 
 const HeroSection = () => {
   return (
