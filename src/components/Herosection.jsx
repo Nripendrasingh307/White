@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
 import logo from '../assets/Projects Images/P1.jpg'
 
 const HeroSection = () => {

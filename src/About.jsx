@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
  import DesignWhite from './assets/Logo & Others/DesignWHite.png'
 const About = () => {
   return (
