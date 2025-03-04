@@ -13,14 +13,14 @@ const About = () => {
 
       <div className="w-full  justify-end flex">
       <div className=" w-[50%]  justify-center text-left">
-        <motion.h2 
+        <h2 
           className="text-5xl font-light text-gray-300 mb-6"
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
           About
-        </motion.h2>
+        </h2>
         <p className="text-lg text-gray-400 ">
           Architecture is the learned game, correct and magnificent, of forms assembled in the light. 
           So keeping this in mind we started with our work. We are a team of 5 Architects with a clean and white vision.

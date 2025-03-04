@@ -20,7 +20,7 @@ const HeroSection = () => {
         </div>
 
         {/* Right Side Image (Animated) */}
-        <motion.div 
+        <div 
           className="w-full lg:w-96 max-w-md"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
@@ -31,10 +31,10 @@ const HeroSection = () => {
             alt="The Edge Building" 
             className="w-full h-auto rounded-lg shadow-lg object-cover" 
           />
-        </motion.div>
+        </div>
       </div>
 
-      
+      {/* Bottom Right Page Indicator */}
       <div className="absolute bottom-6 right-6 lg:bottom-10 lg:right-10 text-gray-400">
         <span className="text-xl">1</span>
         <span className="text-sm"> / 5</span>
