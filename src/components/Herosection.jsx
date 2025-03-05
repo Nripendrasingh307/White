@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '/src/assets/Projects Images/P1.jpg'
+import logo from '../assets/ProjectsImages/P1.jpg'
 
 const HeroSection = () => {
   return (
@@ -10,9 +10,9 @@ const HeroSection = () => {
         style={{ backgroundImage: `url(${logo})` }}
       />
 
-      {/* Content */}
+      
       <div className="relative z-10 container mx-auto px-4 flex flex-col lg:flex-row items-center justify-center space-y-6 lg:space-y-0 lg:space-x-10">
-        {/* Left Side Text */}
+        
         <div className="w-full lg:w-auto text-center lg:text-left flex flex-col justify-center">
           <h1 className="text-3xl lg:text-4xl font-light mb-2">Sharp & Beautiful</h1>
           <h2 className="text-2xl lg:text-3xl font-light mt-2">The Edge Building</h2>

@@ -1,7 +1,7 @@
 import React from "react";
-import image1 from "/src/assets/ContactUsIcons/CU1.png";
-import image2 from "/src/assets/ContactUsIcons/CU2.png";
-import image3 from "/src/assets/ContactUsIcons/CU3.png";
+import image1 from "../assets/ContactUsIcons/CU1.png";
+import image2 from "../assets/ContactUsIcons/CU2.png";
+import image3 from "../assets/ContactUsIcons/CU3.png";
 
 const Contact = () => {
   return (

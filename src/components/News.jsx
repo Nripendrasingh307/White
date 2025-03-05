@@ -1,9 +1,9 @@
 import React from "react";
-import itemImage from './src/assets/News/Seperated Images/N1.png'
-import itemImage2 from './src/assets/News/Seperated Images/N2.png'
-import itemImage3 from './src/assets/News/Seperated Images/N3.png'
-import itemImage4 from './src/assets/News/Seperated Images/N4.png'
-import itemImage5 from './src/assets/News/Seperated Images/N5.png'
+import itemImage from '../assets/News/SeperatedImages/N1.png'
+import itemImage2 from '../assets/News/SeperatedImages/N2.png'
+import itemImage3 from '../assets/News/SeperatedImages/N3.png'
+import itemImage4 from '../assets/News/SeperatedImages/N4.png'
+import itemImage5 from '../assets/News/SeperatedImages/N5.png'
 
 const newsData = [
   {

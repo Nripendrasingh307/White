@@ -11,6 +11,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [tailwindcss(),],
+  
   resolve: {
     alias: {
       // eslint-disable-next-line no-undef
