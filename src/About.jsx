@@ -4,7 +4,7 @@ const About = () => {
   return (
     <section className="h-screen bg-black opacity-150 text-white flex-col items-center justify-center px-10">
       
-      <div className=" inset-0 h-[50%] flex items-end justify-center text-gray-700 text-[400px] font-light tracking-tighter overflow-hidden opacity-10">
+      <div className=" inset-0 h-[50%] flex items-end justify-center text-gray-700 text-[400px] font-light tracking-tighter  ">
         
         <img src={DesignWhite} alt="The Edge Building"  />
         
